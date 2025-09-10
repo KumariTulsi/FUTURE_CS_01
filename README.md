@@ -34,11 +34,6 @@ Through this project, I enhanced my knowledge and skills in:
 - Using **Burp Suite** & **OWASP ZAP** for security assessments  
 - Gaining **hands-on experience** in ethical hacking methodologies  
 
----
-
-## 📁 Deliverables
-- 📄 [Security Assessment Report (PDF)](./Report/Web_Application_Security_Assessment_Report.pdf)  
-- 🖼️ Screenshots of identified vulnerabilities (in `Screenshots/` folder)  
 
 ---
 
