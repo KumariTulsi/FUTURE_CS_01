@@ -41,4 +41,6 @@ This project provided practical experience in **Web Application Security Testing
 
 ---
 
-## CIN: FIT/SEP25/CS3691
+## 📝 Author
+**Kumari Tulsi**  
+CIN ID: FIT/SEP25/CS3691 
